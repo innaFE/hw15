@@ -1,0 +1,28 @@
+body {
+	font-size: 18px;
+	color: #a10bf8;
+}
+
+.wrapper {
+	width: 15%;
+	margin: auto;
+}
+.timer {
+	height: 50px;
+	padding-top: 20px;
+	border: 2px solid #a10bf8;
+  	background-color: #a10bf8;
+	text-align: center;
+  	color: #e4befa;
+	font-size: 30px;
+}
+
+.timerBtn {
+	display: inline-block;
+	width: 48%;
+	height: 30px;
+	border: 2px solid #a10bf8;
+  	background-color: #e4befa;
+  	text-transform: uppercase;
+  	color: #a10bf8;
+}
